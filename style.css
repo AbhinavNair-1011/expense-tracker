@@ -1,0 +1,30 @@
+#headingDiv {
+    background-color: burlywood;
+    color:blue;
+    text-align: center;
+
+}
+#inputSectionDiv{
+    background-color: burlywood;
+    height: 230px;
+    width:800px
+   
+}
+#inputForm{
+    padding:5px;
+     
+}
+.row{
+   margin-top:30px;
+}
+#submitDiv{
+   justify-content: center;
+}
+#submitBtn{
+width:90px;
+
+}
+.value{
+background-color:burlywood;
+margin-top:10px;
+}
